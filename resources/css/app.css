@@ -88,6 +88,13 @@
   }
 }
 
+@layer base {
+  :root {
+    --color-primary: #553df2;
+    --color-hover: rgb(51, 27, 204);
+  }
+}
+
 :root {
   --background: hsl(0 0% 100%);
   --foreground: hsl(0 0% 3.9%);
